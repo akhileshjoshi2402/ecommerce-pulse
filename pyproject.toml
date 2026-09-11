@@ -1,0 +1,16 @@
+[project]
+name = "ecommerce-pulse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "psycopg2-binary>=2.9.13",
+    "python-dotenv>=1.2.3",
+    "seaborn>=0.13.2",
+    "streamlit>=1.63.0",
+    "supabase>=2.31.0",
+]
